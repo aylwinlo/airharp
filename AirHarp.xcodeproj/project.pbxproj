@@ -346,7 +346,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"/Users/adam/Leap_SDK/lib\"",
+					"\"../Leap_SDK/lib\"",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = NO;
@@ -367,7 +367,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"\"/Users/adam/Leap_SDK/lib\"",
+					"\"../Leap_SDK/lib\"",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
 				ONLY_ACTIVE_ARCH = NO;
